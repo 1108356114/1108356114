@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**1108356114/1108356114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafael Silva
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+00001108356114sp@al.educacao.sp.gov.br
+
+@Rafaels.x_
+
+![descrição do GIF](https://media0.giphy.com/media/xT5LMEMzdKTE2a6xfG/200w.gif?cid=6c09b952fn7lttag6h14tm5es9mz54eqsri021iwonzwivx5&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
